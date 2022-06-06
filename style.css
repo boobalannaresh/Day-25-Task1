@@ -1,0 +1,25 @@
+.imagesize{
+    height: 400px;
+}
+.zooanimals{
+    text-align: center;
+}
+.getbtn{
+    display: flex;
+    justify-content: center;
+}
+.container-fluid{
+width: 600px;
+
+}
+body{
+ background-image:url( "https://wallpaperaccess.com/full/1748372.jpg");
+ background-repeat: no-repeat;
+background-position:top;
+}
+p{
+    color:rgb(2, 26, 26);
+    font-weight: bolder;
+    font-style: italic;
+  
+}
